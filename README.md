@@ -1,6 +1,6 @@
 # ChatConnect
 
-MakeFriends is a comprehensive chat application developed using TypeScript, Next.js, Node.js, Express.js, PostgreSQL, and Drizzle ORM. The project showcases real-time communication features and an intuitive user interface.
+ChatConnect is a comprehensive chat application developed using TypeScript, Next.js, Node.js, Express.js, PostgreSQL, and Drizzle ORM. The project showcases real-time communication features and an intuitive user interface.
 
 ## Features
 
